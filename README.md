@@ -29,7 +29,7 @@ There are some input API serving via mocks **To build and run mock:** use `mvn c
 
 ## Steps to test.
 
-- 1. Start Wiremock(8080 port)
+- Start Wiremock(8080 port)
 - verify by accessing mock endpoint url e.g
 - http://localhost:8080/agreements/1
 - ![image](https://user-images.githubusercontent.com/73360754/124835737-13735480-df82-11eb-8f02-502c6a7e3543.png)
